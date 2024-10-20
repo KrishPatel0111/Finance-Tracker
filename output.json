@@ -1,0 +1,25 @@
+{
+    "account_summary": {
+      "total_credit": 5000,
+      "total_debit": 3500,
+      "net_balance": 1500
+    },
+    "expenditure_breakdown": {
+      "food": {
+        "total_credit": 1500,
+        "total_debit": 1000
+      },
+      "bills": {
+        "total_credit": 1000,
+        "total_debit": 500
+      },
+      "education": {
+        "total_credit": 700,
+        "total_debit": 600
+      },
+      "others": {
+        "total_credit": 800,
+        "total_debit": 400
+      }
+    }
+  }
